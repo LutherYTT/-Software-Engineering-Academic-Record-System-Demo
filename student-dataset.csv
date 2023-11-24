@@ -1,0 +1,308 @@
+id,name,nationality,gender,age,english.grade,math.grade,sciences.grade,language.grade,portfolio.rating,coverletter.rating,refletter.rating
+s1311002,Kiana Lor,China,Female,22,3.5,3.7,3.1,1,4,4,4
+s1311003,Joshua Lonaker,United States of America,Male,22,2.9,3.2,3.6,5,5,4,5
+s1311005,Dakota Blanco,United States of America,Female,22,3.9,3.8,3.2,5,3,3,4
+s1311006,Natasha Yarusso,United States of America,Female,20,3.3,2.8,3.2,5,5,2,4
+s1311008,Brooke Cazares,Brazil,Female,21,3.7,2.6,3.4,1,4,4,5
+s1311011,Rochelle Johnson,United States of America,Female,21,3.4,3.1,3.7,5,2,4,4
+s1311013,Joey Abreu,China,Male,22,3.7,3.9,3.6,2,5,5,5
+s1311014,Preston Suarez,Brazil,Male,22,3.8,3.7,3.6,2,5,5,4
+s1311018,Lee Dong,Philippines,Female,24,3.9,3.6,3.2,2,4,3,5
+s1311020,Maa'iz al-Dia,Turkey,Male,22,2.4,2.8,3.8,3,5,5,4
+s1311024,Maja Nicholson,United States of America,Female,23,3.4,3.5,3.2,5,4,2,5
+s1311027,Sasha Jansen,United States of America,Female,21,1.7,4,3.6,5,4,4,5
+s1311028,Alexander Sherman,United States of America,Male,20,3.8,3.6,3.9,5,4,4,5
+s1311029,Edgar Sanchez,Mexico,Male,23,3.7,3.5,4,4,4,5,5
+s1311030,Kolbi Strunk,United States of America,Male,21,3.2,3.9,3.3,5,4,3,4
+s1311032,Brittany Sath,Japan,Female,21,4,3.9,3.7,3,5,3,5
+s1311034,Meggan Smith,United States of America,Female,21,2.9,3.4,3.6,5,2,5,4
+s1311036,Ericka Arreola,Mexico,other,23,3.1,3.5,2.8,4,4,3,4
+s1311038,David Pulc,Canada,Male,24,3.9,2.9,4,5,5,4,2
+s1311041,Kyle Luckey,United States of America,Male,23,3.7,3.9,3.4,5,3,4,4
+s1311043,Rojesh Her,Japan,Male,22,3.8,3.6,3.6,2,4,4,3
+s1311046,David Weber,China,Male,20,3.9,3.9,3.9,2,3,4,5
+s1311047,Rachel Jambor,United States of America,Female,22,3.6,3.6,3.9,5,3,4,4
+s1311050,Mus'ab al-Moustafa,Pakistan,Male,23,3.8,3.9,3.8,2,2,5,4
+s1311052,Sila Nguyen,China,Male,23,2.8,3.5,3.5,4,5,4,4
+s1311066,Samantha Hicks,United States of America,Female,22,3.7,3.7,3.8,5,3,4,4
+s1311068,Angela Harding,United States of America,Female,22,3.1,2.9,3.2,5,3,5,5
+s1311073,Brandon Barbour,United States of America,Male,21,3.9,3.7,3.3,5,4,5,5
+s1311086,Reilly Wagar,United States of America,Female,23,3.4,3.2,3.7,5,5,4,5
+s1311087,Victoria Ibarra,Dominican Republic,Female,22,3.4,3.8,4,4,5,5,5
+s1311091,Dakota Wirth,United States of America,Female,22,3.4,3.9,3.6,5,3,5,5
+s1311095,Lauren Klocker,United States of America,Female,22,2.3,3.9,3.8,5,5,3,4
+s1311097,Michael Benson,United States of America,Male,21,3.8,3.7,3.7,5,4,5,3
+s1311098,Sean Rozga,United States of America,Male,21,3.4,3.8,3.6,5,4,5,4
+s1311100,Cody Vermeylen,United States of America,Male,23,3.3,3.8,3.5,5,2,3,4
+s1311106,Kinaana al-Jamail,India,Female,22,3.3,3.8,3.7,3,4,4,4
+s1311109,Daniel Garcia,Peru,Male,22,3.7,3.1,3,3,5,5,5
+s1311112,Katrina Saito,Japan,Female,22,3.8,4,3.7,4,5,4,5
+s1311114,Joshua Galloway,United States of America,Male,24,3.3,3.3,3.6,5,4,5,5
+s1311116,Aylin Mendoza,Mexico,Female,22,3,2.3,3.9,4,2,4,4
+s1311119,Sharon Fyfe,United States of America,Female,22,3.7,3,3.8,5,4,5,4
+s1311120,Afnaan el-Mohammed,India,Female,22,1.7,3.5,3.9,2,5,5,4
+s1311123,Jesse Williams,Russian Federation,Female,21,3.9,3.4,2.6,4,4,4,5
+s1311131,Kenny Fukushima,Japan,Male,22,3.9,2.9,3.3,4,5,5,5
+s1311136,Tawnie Glaisher,United States of America,Female,24,3.4,3.2,3.8,5,4,4,5
+s1311137,Britany Stevens,United States of America,Female,23,3.6,3.3,3.5,5,3,3,3
+s1311138,Alan Trinh,Japan,Male,20,2.8,3.1,3.8,4,3,4,5
+s1311144,Zoe Kern,United States of America,Female,22,2.1,4,3.4,5,4,5,4
+s1311146,Sidney Beavers,United States of America,Male,23,2.3,2.8,3.5,5,4,4,4
+s1311151,Miriam Aguilar,Mexico,Female,22,3.6,3.8,2.8,2,4,4,4
+s1311155,Issac Mata,Mexico,Male,23,2.4,3.1,2.7,1,5,5,4
+s1311157,Hannah Uren,United States of America,Female,22,3.2,2.2,3.5,5,5,3,5
+s1311164,Zachary Bradley,Spain,Male,21,3.5,3.5,3.4,2,3,5,5
+s1311179,Moira Buttitto,United States of America,Female,23,1.9,2.8,3.2,5,4,5,5
+s1311186,Nicole Humpal,United States of America,Female,22,3.9,3.7,4,5,3,5,3
+s1311194,Georgia Williams,United States of America,Female,23,2.9,3.6,3.1,5,5,5,2
+s1311195,Connor Ferry,United States of America,Male,23,3.1,3.8,4,5,4,5,4
+s1311197,Amanda Tatum,United States of America,Female,22,3.5,2.3,3.7,5,4,5,4
+s1311198,Cameron Steinberg,United States of America,Male,20,2.1,3.9,3.9,5,5,5,5
+s1311199,Shuraih el-Karim,Pakistan,Male,22,3.1,2.1,2.3,4,4,4,4
+s1311205,Katelyn Sharp,United States of America,Female,20,3.9,3.7,2.8,5,5,3,5
+s1311206,Colin Lemont,China,Male,21,3.6,4,3.1,4,4,5,4
+s1311207,Donald Nevins,United States of America,Male,23,3.6,3.4,2.8,5,2,4,4
+s1311213,Macaela Kadillak,United States of America,Female,20,2.7,3.3,3.3,5,4,1,4
+s1311222,Brittany Pratt,United States of America,Female,22,3,3.1,3.1,5,3,4,4
+s1311225,Cameron Hancock,Poland,Male,21,3.9,3.8,3,3,4,3,4
+s1311228,William Grevious,United States of America,Male,22,3.4,3.4,3.1,5,3,5,5
+s1311233,Lindsey Job,United States of America,Female,23,2.7,3.7,1.8,5,4,5,4
+s1311238,Gabrielle Smith,Korea (Republic of),Female,23,4,3,2.8,3,2,2,4
+s1311241,Allison Brink-Lomme,United States of America,Female,24,2.8,3.6,4,5,4,3,1
+s1311243,Sheyenne Delgado-Manzanares,Cuba,Female,21,3.9,2.8,3.2,3,4,4,5
+s1311245,Joseph Smith,United States of America,Male,21,3.7,3.7,2.8,5,5,4,4
+s1311248,Fikra al-Mina,India,Female,21,3.1,2.4,3.3,3,1,5,4
+s1311250,Aurelia Davis Ingham,United States of America,Female,22,3.8,2.2,3.7,5,4,5,5
+s1311253,Taylor Elstun,United States of America,Female,21,2.3,3.7,3.6,5,5,4,5
+s1311255,Joseph Snider,United States of America,Male,21,3.2,2.6,3,5,5,4,5
+s1311256,Sourinthone Tran,China,Male,21,3.5,3.9,3.4,4,4,4,5
+s1311259,Ibrahim al-Sawaya,Tunisia,Male,23,3.5,3.1,4,4,5,3,3
+s1311263,Alexandra Levy,United States of America,Female,23,3.1,2.5,3.7,5,4,3,5
+s1311264,Macie Nguyen,Japan,Female,23,3.1,3.8,3.8,4,2,4,3
+s1311265,Sean Tegtman,United States of America,Male,25,3.7,3.8,3.8,5,3,4,5
+s1311266,Casey Vanden Bos,United States of America,Male,22,2.7,2.6,3.3,5,5,5,4
+s1311267,Staci Maes,Mexico,Female,23,3.4,2.6,3.9,2,5,3,5
+s1311273,Luke Davey,United States of America,Male,26,3.8,3.4,3.7,5,4,5,3
+s1311275,Harper Wheeler-Marques,United States of America,Female,23,3.9,2.4,3.9,5,5,4,2
+s1311279,Sherleen Saravanan,Myanmar,Female,22,3.1,3.4,3.7,3,4,3,5
+s1311280,Myles Vaught,United States of America,Male,21,3.4,3.8,3.9,5,3,4,4
+s1311282,Juan Guerrero Camacho,Mexico,Male,21,2.8,3.7,3.5,2,4,4,5
+s1311289,Lindsey Freund,United States of America,Female,20,3.3,2.3,3.9,5,3,5,5
+s1311310,Savannah Clark,United States of America,Female,20,2.8,3.5,2.6,5,3,4,4
+s1311316,Bradley Monsell,United States of America,Male,22,3,3.9,3.1,5,5,2,4
+s1311318,Daisha Schmidt,United States of America,Female,22,3.7,3.9,4,5,5,4,4
+s1311319,Airabella Koontz,United States of America,Female,22,2.7,3.3,3.4,5,4,5,4
+s1311322,Hailey Malle,Russian Federation,Female,22,3.7,2.5,3.2,2,3,3,5
+s1311325,Devon Miranda,Colombia,Male,20,3.7,3.7,3.8,1,5,5,5
+s1311326,Danielle Nguyen,Japan,Female,23,3.3,3.5,3.6,3,5,4,4
+s1311327,Mateo Cisneros,Brazil,Male,23,3,3.4,2.9,4,4,4,5
+s1311333,William Pablo,Japan,Male,24,2.9,3.3,3.1,4,2,5,4
+s1311334,Jason Hundsdorfer,United States of America,Male,20,3.9,3.9,4,5,3,3.5,3
+s1311343,Antonio Desai,Japan,Male,22,2.2,3.9,3.9,3,5,4,5
+s1311345,Rachel Bakeman,United States of America,Female,24,3.9,3.7,3.8,5,4,5,3
+s1311349,Mamdooh el-Moustafa,Pakistan,Male,22,3.3,2.8,3.9,4,4,4,4
+s1311350,Lindsey Carter,United States of America,Female,24,3.2,3.9,3.9,5,2,4,5
+s1311356,Duncan Kruse,United States of America,Male,23,3.7,3.8,3.7,5,1,5,4
+s1311357,Callahan Foster,Canada,other,22,3.2,3,3.9,5,3,3,5
+s1311367,Jamie Ortiz,El Salvador,Female,23,3.3,2.9,3.5,3,4,4,4
+s1311369,Ryan Barrett,United States of America,Male,20,3.7,3.2,4,5,5,4,1
+s1311370,Samuel Palmer,United States of America,Male,22,3.9,3.3,3.3,5,5,4,2
+s1311379,Riley Mcloughlin,United States of America,Male,23,3.6,3.6,3.3,5,5,4,4
+s1311384,Aimee Apelyan,United States of America,Female,24,3.3,3.8,3.8,5,4,4,4
+s1311385,Maryah Falloon,United States of America,Female,23,3.9,3.7,3.9,5,3,4,5
+s1311387,Lucille Mitchell,Canada,Female,22,3.5,3.6,2.6,5,5,4,4
+s1311391,Christian Zambrano-Munoz,Mexico,Male,23,3.1,3.9,3.6,4,4,3,4
+s1311392,Bryce Vaillancourt,United States of America,Male,22,3.7,3.8,2.1,5,4,5,4
+s1311398,Brandilyn Collins,United States of America,Female,21,3.6,3,3.3,5,4,4,4
+s1311401,Konner Gearhart,United States of America,Male,22,3.9,3.7,3.3,5,4,3,3
+s1311404,Andrew Houghton,United States of America,Male,22,3.2,3.2,3.8,5,2,4,5
+s1311405,Marisa Ramey,Mexico,Female,22,3.2,4,3.8,4,3,3,4
+s1311421,Magdalynne Noah,United States of America,Female,22,3.2,3.8,3.8,5,3,4,4
+s1311422,Megan Salamena,United States of America,Female,23,3.9,3.9,3.1,5,4,4,5
+s1311426,Meghan Arnold,Russian Federation,Female,24,4,3.9,3.3,3,5,3,3
+s1311430,James Rice,Canada,Male,20,3.9,2.4,3.6,5,4,3,4
+s1311431,Wesley Nunn,United States of America,Male,23,3.9,4,2.1,5,5,5,3
+s1311432,Gareth Newkirk,United States of America,Male,21,4,3.2,3.9,5,4,5,4
+s1311439,Austin Harline,United States of America,Male,21,2.8,3.8,3.8,5,5,5,4
+s1311443,Courtney Martinez,Mexico,Female,20,3.7,3.7,3.7,3,4,5,5
+s1311448,Alexandra Graham,United States of America,Female,22,3.4,3.5,2.8,5,4,3,5
+s1311449,Alexander Swearingen,United States of America,Male,22,3.9,2.8,4,5,3,4,4
+s1311451,Brandy Waldner,Germany,Female,20,3.2,3.5,3.9,3,5,5,5
+s1311465,Coleman Keelen,Spain,Male,24,3.4,4,3.4,4,4,4,4
+s1311469,Casey Buhr,United States of America,Male,21,3.7,3.2,2.5,5,2,3,5
+s1311473,Shauna Sneed,United States of America,Female,19,2.7,3.7,3.7,5,5,4,5
+s1311478,Caitlin Dean,United States of America,Female,22,3.9,3.7,3.1,5,4,4,4
+s1311482,Andrew Kirin,United States of America,Male,25,3.8,2.2,3,5,3,2,3
+s1311487,Nadia Minks,Russian Federation,Female,24,3.8,3.1,3.5,4,2,5,5
+s1311488,Ivy Lucero,Brazil,Female,24,3.9,3.6,3.2,3,4,4,4
+s1311489,Kevin Curry,United States of America,Male,23,3.9,3,3.7,5,5,5,5
+s1311491,Charles Cramer,United States of America,Male,23,3.1,3.5,3.8,5,4,5,4
+s1311492,Emily Warner,United States of America,Female,21,3.5,3.2,3.9,5,3,5,4
+s1311493,Mckenzie Haycock,Canada,Female,20,3.8,2.3,3.7,5,5,4,3
+s1311497,Faviola Soto,Mexico,Female,19,4,3.8,3.9,3.7,5,5,4
+s1311498,Stephen Wharton,Mexico,Male,21,2.1,3.7,3.8,4,4,5,3
+s1311504,Alexandria Fortner,United States of America,Female,20,3.9,3.8,3.8,5,4,4,5
+s1311507,Savannah Kivett,United States of America,Female,21,3.8,3.9,3.8,5,4,4,5
+s1311508,Tanner Jones,United States of America,Male,23,3.9,3.7,3.7,5,4,5,5
+s1311514,Luisa Bautista,Mexico,Female,21,3.3,3,3.4,3,4,4,4
+s1311516,Juhaina al-Bilal,Bangladesh,Female,20,3.9,3.9,3.9,5,5,4,5
+s1311518,Siena Ingram,United States of America,Female,21,3.8,3.7,3.8,5,5,3,5
+s1311519,Alondra Gardea Corral,Mexico,Female,20,2.2,3.8,3.1,2,3,4,2
+s1311520,Vincent Webster,United States of America,Male,23,2,3.7,3.4,5,4,3,5
+s1311528,Abdul Jabbaar el-Abdul,Egypt,Male,20,1.5,3.5,3.2,3,3,5,4
+s1311529,Patrick Carnes,United States of America,Male,22,2.4,3.5,3.6,5,3,5,5
+s1311531,Shawn O Bryan,United States of America,Male,23,2.9,3.7,1.5,5,3,5,3
+s1311532,Jenna Whitney,United States of America,Female,23,3.7,2.9,3.9,5,3,4,5
+s1311535,Kaitlin Krueger,United States of America,Female,24,3.7,3.9,4,5,4,5,4
+s1311536,Jaime Mikesell,United States of America,Female,20,3.9,3.7,3.7,5,4,5,4
+s1311541,Katelynn Andrie,United States of America,Female,23,3,3.9,3.9,5,5,5,5
+s1311543,Maryn Manzanares,United States of America,Female,21,3.9,3.2,3.2,5,2,4,4
+s1311546,Colleen Kohout,United States of America,Female,22,3.5,3.8,3.1,5,4,4,4
+s1311552,Daniel Spurlin,United States of America,Male,24,3.9,3.9,3.7,5,5,5,3
+s1311560,Trevor Bulba,United States of America,Male,21,3.9,3.8,3.8,5,5,4,5
+s1311562,Jordan Burkhamer,United States of America,Female,23,3,3.9,3.7,5,5,4,4
+s1311565,Rebecca Ah Fat,China,Female,22,1.8,3.8,4,4,4,3,4
+s1311570,Christopher Jacobo,United States of America,Male,21,3.4,2.7,3.9,5,4,4,3
+s1311572,Min Singal,Japan,Female,24,3.8,2.9,2.9,4,5,3,2
+s1311574,Corey Rademacher,Ukraine,Male,22,3.1,3.3,3.9,3,4,5,4
+s1311577,Alexander Reed,United States of America,Male,22,3,2.7,3.8,5,4,2,5
+s1311578,Dalen Whiting,United States of America,Female,23,2.8,3.9,3.3,5,5,5,5
+s1311579,Chelsea Persky,United States of America,Female,23,3.9,3.4,4,5,3,3,4
+s1311580,Karla Taylor,Mexico,Female,21,3.7,3,3.7,4,4,3,2
+s1311581,Kaden Yates,United States of America,Male,23,3.6,3.4,4,5,5,4,3
+s1311585,Maimoona el-Soliman,Turkey,Female,21,2.8,2.6,3.9,3,4,3,4
+s1311586,Aaqil el-Hashemi,India,Male,21,3.4,3,3.6,3,5,5,4
+s1311594,Sean Bruso,United Kingdom,Male,19,3.2,3.7,3.9,5,3,5,4
+s1311603,Andrew Bishop,United States of America,Male,22,4,3.7,3.8,5,3,3,3
+s1311606,Zahraaa el-Yousef,India,Female,22,3.9,3.7,3.8,4,4,4,4
+s1311608,Surya Ky,China,Male,21,3.7,4,3.8,4,4,4,5
+s1311610,George Mann,Russian Federation,Male,23,3.9,3.9,4,4,5,5,5
+s1311616,Latino Calderon,Mexico,Male,23,3.6,3,3,3,5,4,4
+s1311630,Baylen Cloutier,United States of America,Male,22,3.9,3.4,3.7,5,3,5,3
+s1311633,Nicole Torres-Valadez,Brazil,Female,24,3.9,3.1,3,1,4,5,4
+s1311634,Addie Villavicencio,United States of America,Female,20,4,3.5,3.2,5,5,5,4
+s1311636,Billy Jack Bestle,United States of America,Male,22,3.7,4,3.8,5,5,4,5
+s1311637,Isabella Martinez,Colombia,Female,23,2.6,4,2.7,4,3,4,3
+s1311639,Kimberly Thielke,United States of America,Female,21,3.8,3.9,3.3,5,3,5,5
+s1311640,Adrian Miguel-Gomez,Colombia,Male,22,3.7,3.3,2.2,4,4,4,5
+s1311641,Kayla Sales,United States of America,Female,22,2.1,3.1,4,5,5,4,5
+s1311643,Haafiza al-Attar,Morocco,Female,21,2.4,3.6,3.8,3,3,5,3
+s1311644,Juanita Medina,Mexico,Female,22,3.8,3.9,3.7,4,3,5,4
+s1311647,Emma Kim,China,Female,22,2.8,3.9,3.8,2,4,4,4
+s1311653,Mckayla Dopler,Netherlands,Female,21,2.5,3.5,3.7,4,2,4,4
+s1311656,Jonathan Nevarez,Mexico,Male,23,2.7,2.6,3.6,5,4,5,5
+s1311657,Roger Redfern,United States of America,Male,21,3.9,3.9,3.1,5,5,3,4
+s1311658,Hannah Critchfield,United States of America,Female,21,3.5,3.3,3.6,5,5,4,5
+s1311664,Chue Fue Richter,China,Male,23,3,3.6,1.4,4,5,3,4
+s1311665,Joshua Mesan,United States of America,Male,24,4,3.8,3.7,5,5,4,5
+s1311666,Dylan Bell,United States of America,Male,20,3.3,3.8,3.5,5,5,4,4
+s1311669,Troy White,United States of America,Male,22,4,3.6,3.4,5,4,4,5
+s1311671,Sabaaha al-Latif,India,Female,22,3.7,2.7,3,3,5,3,5
+s1311673,Grant Walden,United States of America,Male,22,3.8,3.3,3.3,5,5,4,5
+s1311674,Kitty Nguyen,Japan,Female,25,3.4,3.2,2.9,4,4,3,5
+s1311677,Tyler Kibel,United States of America,Male,24,4,3.2,3.8,5,5,3,4
+s1311682,Kyler Overboe,United States of America,Male,21,3.2,4,3.5,5,4,3,4
+s1311688,Alexander Lizama,Brazil,Male,21,3.9,3.7,3.9,3,4,5,4
+s1311691,Aaron Knott,United States of America,Male,23,3.2,3.6,3.7,5,4,5,4
+s1311692,Jessica Greenberg,United States of America,Female,23,3.6,3.7,2.8,5,4,4,5
+s1311693,Lexi Hatton,United States of America,Female,23,3.3,2.7,4,5,4,5,5
+s1311698,Jesse Hodapp,United States of America,Male,21,3.8,3,3.5,5,4,2,2
+s1311699,Andrew Brunelli,United States of America,Male,23,3.4,3.8,4,5,4,3,3
+s1311702,Makenzie Swann,United States of America,Female,22,3.4,2.8,3.1,5,5,5,4
+s1311708,Carlos Anaya,Mexico,Male,24,3.7,3.7,3.7,4,4,5,5
+s1311711,Felipe Martinez Acosta,Chile,Male,21,3.7,3.7,4,3,4,3,5
+s1311713,Emma Casias,United States of America,Female,22,3.2,3.7,3.2,5,4,3,5
+s1311715,Adolf Malik,Korea (Republic of),Male,21,3.1,3.5,3.6,3,4,4,3
+s1311716,Christian Chow,China,Male,21,2.6,3.9,3.4,4,5,5,5
+s1311720,Asad el-Yacoub,India,Male,22,2.6,3.3,4,3,5,4,4
+s1311722,Holly Marshall,United States of America,Female,22,3,2.7,2,5,3,4,4
+s1311726,Brandilyn Hanselman,Russian Federation,Female,21,2,3.5,2.2,4,4,5,4
+s1311732,Nicole Patria,China,Female,24,3.9,3.3,3,2,3,5,5
+s1311734,Kyler Grieshaber,United States of America,Male,22,3.6,3.4,4,5,4,3,5
+s1311736,Jasper Stang,United States of America,Male,24,3.6,3.9,3.3,5,5,5,5
+s1311743,Anthony Visocsky,United States of America,Male,21,3.4,2.4,4,5,2,4,4
+s1311744,Jake Seime,United States of America,Male,22,2.4,3.9,3.7,5,4,4,5
+s1311749,Dasha Bannock Lee,United States of America,other,20,2.8,3.3,4,5,4,3,2
+s1311750,Anthony Mcdevitt,United States of America,Male,24,3.1,4,3.9,5,4,5,3
+s1311751,Darby Focken,United States of America,Female,21,3.5,2.5,3.7,5,4,4,4
+s1311754,Abigail Gallegos,Brazil,Female,24,3.4,3,2.1,4,3,3,4
+s1311758,Patricia Rockhold,United States of America,Female,21,4,3.5,3.4,5,5,4,5
+s1311760,Kylie Schafer,United States of America,Female,22,3.1,3,3.3,5,5,5,4
+s1311761,Katherine Beatty,United States of America,Female,19,4,2.4,3.9,5,4,5,4
+s1311765,Melissa Bickel,United Kingdom,Female,22,3.6,2.6,2.5,5,4,4,4
+s1311768,Rachel Boh,United States of America,Female,22,3.8,3.9,2.9,5,4,3,2
+s1311770,Anna Yoshimura,China,Female,20,3.5,3.8,3.9,4,5,5,2
+s1311776,Joseph Hazelton,United States of America,Male,22,3.5,4,3.9,5,5,4,5
+s1311778,Tiffany Nguyen,Thailand,Female,22,3.3,3.9,3.9,2,5,4,5
+s1311784,Ryan Tyler,United States of America,Male,20,3.7,3.5,3.5,5,4,5,5
+s1311786,Max Flores,Mexico,Male,23,3.9,2.8,2.5,4,4,5,5
+s1311788,Veronica Tounzen,Mexico,Female,21,3.8,3.5,3.5,4,4,4,5
+s1311790,Haley Ingrim-Hyrup,United States of America,Female,22,3.2,3.6,2.6,5,2,4,3
+s1311792,Kayla Sandefur,United States of America,Female,23,3.5,3.1,3.5,5,5,4,5
+s1311798,Rylee Onstott,United States of America,other,21,4,3.8,3.8,5,5,5,3
+s1311800,Kelli De Bartolome,United States of America,Female,23,3.4,3.4,3.5,5,2,5,4
+s1311806,Thomas Chanlynn,United States of America,Male,22,2.4,3,3.8,5,3,4,3
+s1311807,Andrew Yelich,United States of America,Male,24,2,3.9,3.3,5,4,4,4
+s1311811,Dimitri Castillo,Colombia,Male,21,3.9,3,3.8,3,2,4,4
+s1311813,Matthew Strasburger,United States of America,Male,21,3.9,3.9,2.9,5,4,4,4
+s1311814,Vittoria Faulkner,United States of America,Female,22,4,3.6,2.5,5,5,4,4
+s1311819,Tyler Goetz,United States of America,Male,22,3.7,3.5,2.8,5,5,4,2
+s1311824,Tyler Weller,United States of America,Male,22,3.7,3.2,3.1,5,4,3,5
+s1311825,Terri Mergelman,United States of America,Female,23,2.7,3.9,3,5,4,4,4
+s1311835,Abigail Orgeron,United States of America,Female,23,3.2,3,3.8,5,5,5,4
+s1311836,Jessica Huynh,Korea (Republic of),Female,22,3.5,2.7,3.2,2,5,3,5
+s1311841,Kyle Blanscet,United States of America,Male,23,3.8,3.5,3.7,5,4,4,5
+s1311843,Ronald Toth,United States of America,Male,23,2.7,3.5,3.7,5,4,3,4
+s1311844,Branden Cantrell,United States of America,Male,23,2.7,4,3.9,5,5,5,5
+s1311846,Hannah Ratterman,United States of America,Female,23,3.5,3.4,3.7,5,2,5,5
+s1311849,Alexandria Winter,United States of America,Female,24,3.8,3.8,2.2,5,5,3,4
+s1311854,Ryan Russell,United States of America,Male,22,3,3.4,3.7,5,3,5,3
+s1311859,Logan Nighswonger,United States of America,Male,21,2.7,4,3.9,5,4,3,5
+s1311864,Zaghlool al-Pasha,India,Male,21,2.3,3.8,3.8,4,5,5,5
+s1311865,Madeline Kremke,United States of America,Female,22,3.2,3.6,2.6,5,4,4,4
+s1311868,John Ferry,United States of America,Male,21,3.8,2.4,3.8,5,4,2,5
+s1311870,Michelle Goldanloo,United States of America,Female,22,3.3,2.8,3.9,5,5,5,4
+s1311871,Ryan Heidebrecht,United States of America,Male,22,3.9,3.7,3.8,5,5,3.5,5
+s1311872,Murtidevi Chung,Japan,Female,21,2.9,3.9,3.5,2,4,5,4
+s1311875,Arely Rodriguez,Mexico,Female,21,3.9,3.5,3.6,4,4,4,3
+s1311877,Taylor Stone,United States of America,Female,22,3,3,3.5,5,5,5,3
+s1311882,Melody Bowyer,United States of America,Female,21,3.2,3.5,3.3,5,4,4,5
+s1311883,Bryant Ronquillo,Mexico,Male,20,4,3.2,3.5,4,3,5,3
+s1311884,Garrett Heim,United States of America,Male,20,4,3.2,3.1,5,4,4,5
+s1311888,Cody Amen,United States of America,Male,23,3.6,3.9,3.7,5,4,4,4
+s1311891,Jasmine Lopez,Brazil,Female,21,3.8,3.8,1.5,4,4,3,4
+s1311892,William Tierney,United States of America,Male,21,3.8,2.1,3,5,3,4,4
+s1311894,Matthew Sputh,United States of America,Male,22,3.2,2.6,4,5,3,3,5
+s1311896,Brenna Chapman,United States of America,Female,21,3.5,3.8,3.3,5,5,4,5
+s1311900,Blake Loughran,United States of America,Male,21,4,3,3.4,5,4,3,4
+s1311903,Michael Melendrez,United States of America,Male,22,3.4,3.8,3.2,5,4,4,4
+s1311904,Katie Abercrombie,United States of America,Female,21,3.8,3.8,3.6,5,3,5,4
+s1311907,Justin Krause,United States of America,Male,21,3.9,2.6,2.8,5,3,5,5
+s1311908,Jennifer Hauge,United States of America,Female,23,2.6,3,2.3,5,4,4,4
+s1311910,Tiffanie Her,Japan,Female,22,3.4,4,3.6,3,4,4,3
+s1311914,Dyllan Paige,United States of America,Male,20,2.9,3.1,2.6,5,5,5,4
+s1311915,Cole Hathcoat,United States of America,Male,23,2.4,3.6,2.8,5,3,5,5
+s1311917,Jesse Carballo,Colombia,Male,20,3.8,3.9,3.9,4,5,4,4
+s1311922,Robert Podolski,United States of America,Male,22,3.7,3.3,2.4,5,4,4,4
+s1311924,Viridiana Ballesteros,Brazil,Female,22,2.8,3.5,3.9,4,4,5,5
+s1311925,Michael Griffin,United States of America,Male,21,4,4,4,5,3,5,5
+s1311926,Chad Klemp,United States of America,Male,22,3.9,2.6,4,5,4,4,5
+s1311931,Weldon Hightower,United States of America,Male,20,2.6,2.1,3.2,5,4,5,5
+s1311935,Daniel Pierce,United States of America,Male,24,3.3,2.8,3.9,5,5,4,5
+s1311936,Michaela Schoenbeck,United States of America,Female,22,3.9,4,3.3,5,5,4,4
+s1311938,Charles Prose,United States of America,Male,24,3.7,3.2,2.8,5,4,4,5
+s1311940,Brittany Kemmerzell,United States of America,Female,23,3.2,3.4,3.7,5,4,5,3
+s1311945,Taryn Springfield,Canada,Female,20,3.5,3.7,3.4,5,5,5,5
+s1311947,Matthew Obourn,United States of America,Male,23,3.9,4,3.9,5,4,4,4
+s1311949,Travis Poss,United States of America,Male,23,2.3,3,3.5,5,1,5,5
+s1311953,Brittany Fernandez,Mexico,Female,23,3.9,3.7,2.9,4,3,4,4
+s1311954,Cody Smith,United States of America,Male,23,3.8,3.5,3.9,5,5,2,5
+s1311955,Nicolas Papp,United States of America,Male,23,2.7,3.7,3.9,5,5,4,4
+s1311963,Christopher Inhulsen,United States of America,Male,23,3.1,3.3,2.9,5,2,4,4
+s1311964,Tessa Rawanduzy,United States of America,Female,21,3.3,3.3,2,5,3,3,5
+s1311972,Vanessa Gonzalez,Nicaragua,Female,24,3.3,3.7,3.8,3,5,5,4
+s1311974,Austin Haas,United States of America,Male,20,3.6,3.7,3.1,5,4,5,5
+s1311977,Madison Fithian,United States of America,Female,20,3.6,3.9,4,5,5,5,3
+s1311978,Zachary Mulvahill,United States of America,Male,20,3.2,3.4,3.9,5,5,5,3
+s1311990,Eliana Michelsen,United States of America,Female,23,3,2.8,2.9,5,4,4,5
+s1311993,Dane Whittemore,Canada,Male,21,3.8,3.2,4,5,5,4,5
