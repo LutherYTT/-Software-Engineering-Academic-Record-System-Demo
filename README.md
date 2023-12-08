@@ -9,6 +9,15 @@ If you are running this code for the first time, please run the setup code at th
 ## Usage
 To run the notebook, simply execute the cells in order. The notebook provides a graphical interface for managing academic records, including functionalities for updating, sorting, and searching records.
 You need to RUN ALL of the code.
+# Student Account
+account: student full id
+password: student id without s
+# Teacher Account
+account: t123456
+password: t123
+# ITT Account
+account: i123456
+password: itt123
 
 ## Dependencies
 - PySimpleGUI==4.60.5
