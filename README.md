@@ -28,7 +28,7 @@ For example: student id s1311002
 - pandas==1.4.4
 
 ## File Structure
-- [SE]Gp_29.ipynb: The main Jupyter notebook file.
+- Academic-Registry-Portal.ipynb: The main Jupyter notebook file.
 - student-dataset.csv: The dataset used by the notebook.
 
 ## Author
