@@ -11,7 +11,8 @@ To run the notebook, simply execute the cells in order. The notebook provides a 
 You need to RUN ALL of the code.
 # Student Account
 - account: student full id
-- password: student id without s
+- password: student id without 's'
+  
 For example: student id s1311002
 - login account: s1311002
 - login password: 1311002
