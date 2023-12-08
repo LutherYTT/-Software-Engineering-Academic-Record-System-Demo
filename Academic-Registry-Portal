@@ -9,8 +9,8 @@
    "source": [
     "#  If you are first time running, please uncomment the following code to setup.\n",
     "#  If you already have these packages, you can comment these to make it launch faster.\n",
-    "#!pip install PySimpleGUI==4.60.5\n",
-    "#!pip install pandas==1.4.4"
+    "!pip install PySimpleGUI==4.60.5\n",
+    "!pip install pandas==1.4.4"
    ]
   },
   {
