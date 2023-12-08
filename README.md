@@ -5,6 +5,7 @@ This Jupyter notebook contains the code for an IT Technician Version of an acade
 
 ## Setup
 If you are running this code for the first time, please run the setup code at the beginning of the notebook. This includes installing required packages using pip.
+student-dataset.csv and Academic-Registry-Portal.ipynb should in the same file.
 
 ## Usage
 To run the notebook, simply execute the cells in order. The notebook provides a graphical interface for managing academic records, including functionalities for updating, sorting, and searching records.
