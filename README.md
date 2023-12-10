@@ -4,10 +4,11 @@
 This Jupyter notebook contains the code for an IT Technician Version of an academic record system. It utilizes PySimpleGUI for the graphical user interface and pandas for data manipulation.
 
 ## Setup (Jupyter Notebook)
-- 1. You can install Jupyter Notebook on https://jupyter.org/
-- 2. Extract the all the project file into same directory.
-- 3. At "Run" column, select run all cells.
-- 4. The program should be exexuted, a window should be poped out.
+- 1. install the Python
+- 2. You can install Jupyter Notebook on https://jupyter.org/
+- 3. Extract the all the project file into same directory.
+- 4. At "Run" column, select run all cells.
+- 5. The program should be exexuted, a window should be poped out.
   
 ## Setup (VS Code)
 - 1. Download and install Python.
