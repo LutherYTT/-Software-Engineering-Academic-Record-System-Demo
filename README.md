@@ -22,7 +22,10 @@ This Jupyter notebook contains the code for an IT Technician Version of an acade
 
 YOU SHOULD RUN IT ON LOCAL JUPYTER NOTEBOOK. 
 
-If you are running this code for the first time, please run the setup code at the beginning of the notebook. This includes installing required packages using pip.
+If you are running this code for the first time, please run the setup code at the beginning of the notebook. 
+
+This includes installing required packages using pip. If you already installed you can choose to comment these line to improve setup time.
+
 student-dataset.csv and Academic-Registry-Portal.ipynb should in the same file.
 
 ## Usage
