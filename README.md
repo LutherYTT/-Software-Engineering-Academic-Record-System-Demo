@@ -9,7 +9,7 @@ YOU SHOULD RUN IT ON LOCAL JUPYTER NOTEBOOK.
 
 ## Setup (Using in-browser Jupyter Notebook)
 - 1. install the Python
-- 2. You can install Jupyter Notebook on https://jupyter.org/
+- 2. use terminals to "pip install jupyter notebook" .
 - 3. Extract the all the project file into same directory.
 - 4. Run Academic-Registry-Portal.ipynb
 - 5. At "Run" column, select run all cells.
