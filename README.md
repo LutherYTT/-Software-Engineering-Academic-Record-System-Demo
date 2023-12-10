@@ -22,7 +22,7 @@ For example: student id s1311002
 ### Teacher Account
 - account: t123456
 - password: t123
-### ITT Account
+### IT Technician Account
 - account: i123456
 - password: itt123
 
