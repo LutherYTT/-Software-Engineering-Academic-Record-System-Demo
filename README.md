@@ -7,6 +7,8 @@ This Jupyter notebook contains the code for an IT Technician Version of an acade
 
 YOU SHOULD RUN IT ON LOCAL JUPYTER NOTEBOOK. 
 
+These are the tested methods to startup the program. Any alternative way has not been tested:
+
 ## Setup (Using in-browser Jupyter Notebook)
 - 1. install the Python
 - 2. use terminals to "pip install notebook" (more details on https://jupyter.org/install).
