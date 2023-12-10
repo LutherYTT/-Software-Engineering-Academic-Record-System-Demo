@@ -3,25 +3,28 @@
 ## Overview
 This Jupyter notebook contains the code for an IT Technician Version of an academic record system. It utilizes PySimpleGUI for the graphical user interface and pandas for data manipulation.
 
-## Setup (Jupyter Notebook)
-- 1. install the Python
-- 2. You can install Jupyter Notebook on https://jupyter.org/
-- 3. Extract the all the project file into same directory.
-- 4. At "Run" column, select run all cells.
-- 5. The program should be exexuted, a window should be poped out.
-  
-## Setup (VS Code)
-- 1. Download and install Python.
-- 2. Run file in cmd line or run through ide.
-- 3. Open Terminal input "pip install PySimpleGUI==4.60.5" to install PySimpleGUI.
-- 4. Open Terminal input "pip install pandas==1.4.4" to install Pandas.
-- 5. Run all.
-
-## Project Setup 
 !THIS PROJECT CAN'T RUN ON COLAB!
 
 YOU SHOULD RUN IT ON LOCAL JUPYTER NOTEBOOK. 
 
+## Setup (Using in-browser Jupyter Notebook)
+- 1. install the Python
+- 2. You can install Jupyter Notebook on https://jupyter.org/
+- 3. Extract the all the project file into same directory.
+- 4. Run Academic-Registry-Portal.ipynb
+- 5. At "Run" column, select run all cells.
+- 6. The program should be exexuted, a window should be poped out.
+  
+## Setup: (VSCode) 
+- 1. Download and install Python
+- 2. Run file using the Run all button on top
+- 3. Open Terminal input "pip install PySimpleGUI==4.60.5" to install PySimpleGUI
+- 4. Open Terminal input "pip install pandas==1.4.4" to install Pandas
+- 5. When prompted update pip using the "python.exe -m pip install --upgrade pip" command in terminal
+- 6. Wait for dependencies to be installed
+- 7. Run all when done
+
+## Project Setup 
 If you are running this code for the first time, please run the setup code at the beginning of the notebook. 
 
 This includes installing required packages using pip. If you already installed you can choose to comment these line to improve setup time.
