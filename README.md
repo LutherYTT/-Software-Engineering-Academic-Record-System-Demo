@@ -5,17 +5,16 @@ This Jupyter notebook contains the code for an IT Technician Version of an acade
 
 ## Setup (Jupyter Notebook)
 - 1. You can install Jupyter Notebook on https://jupyter.org/
-- 2. Extract the all the project file into same directory
-- 3. Enter jupyter notebook
-- 4. Run Academic-Registry-Portal.ipynb
-- 5. At "Run" column, select run all cells
+- 2. Extract the all the project file into same directory.
+- 3. At "Run" column, select run all cells.
+- 4. The program should be exexuted, a window should be poped out.
   
 ## Setup (VS Code)
-- 1. Download and install Python
-- 2. Run file in cmd line or run through ide
-- 3. Open Terminal input "pip install PySimpleGUI==4.60.5" to install PySimpleGUI
-- 4. Open Terminal input "pip install pandas==1.4.4" to install Pandas
-- 5. Run all
+- 1. Download and install Python.
+- 2. Run file in cmd line or run through ide.
+- 3. Open Terminal input "pip install PySimpleGUI==4.60.5" to install PySimpleGUI.
+- 4. Open Terminal input "pip install pandas==1.4.4" to install Pandas.
+- 5. Run all.
 
 ## Project Setup 
 !THIS PROJECT CAN'T RUN ON COLAB!
