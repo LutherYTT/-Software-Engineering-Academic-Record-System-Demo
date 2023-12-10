@@ -9,6 +9,8 @@ This Jupyter notebook contains the code for an IT Technician Version of an acade
 YOU SHOULD RUN IT ON LOCAL JUPYTER NOTEBOOK
 (https://jupyter.org/)
 
+If you are using other platforms to run the Academic-Registry-Portal.ipynb, you need to install PySimpleGUI==4.60.5 and pandas==1.4.4 by yourself on terminal.
+
 If you are running this code for the first time, please run the setup code at the beginning of the notebook. This includes installing required packages using pip.
 student-dataset.csv and Academic-Registry-Portal.ipynb should in the same file.
 
