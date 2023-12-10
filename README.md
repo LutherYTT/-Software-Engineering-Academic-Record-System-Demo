@@ -5,6 +5,7 @@ This Jupyter notebook contains the code for an IT Technician Version of an acade
 
 ## Setup
 !THIS PROJECT CAN'T RUN ON COLAB!
+
 YOU SHOULD RUN IT ON LOCAL JUPYTER NOTEBOOK
 (https://jupyter.org/)
 
