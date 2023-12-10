@@ -3,15 +3,24 @@
 ## Overview
 This Jupyter notebook contains the code for an IT Technician Version of an academic record system. It utilizes PySimpleGUI for the graphical user interface and pandas for data manipulation.
 
-## Setup
+## Setup 
 !THIS PROJECT CAN'T RUN ON COLAB!
 
-YOU SHOULD RUN IT ON LOCAL JUPYTER NOTEBOOK
-(https://jupyter.org/)
+YOU SHOULD RUN IT ON LOCAL JUPYTER NOTEBOOK. 
 
 If you are running this code for the first time, please run the setup code at the beginning of the notebook. This includes installing required packages using pip.
 student-dataset.csv and Academic-Registry-Portal.ipynb should in the same file.
 
+## Setup ((Jupyter Notebook))
+- You can install it on https://jupyter.org/
+- Extract the all the project file into same directory
+- Enter jupyter notebook
+- Run Academic-Registry-Portal.ipynb
+- At "Run" column, select run all cells
+  
+## Setup (VS Code)
+- Download and Install Latest Python Ver
+- Follow above
 ## Usage
 To run the notebook, simply execute the cells in order. The notebook provides a graphical interface for managing academic records, including functionalities for updating, sorting, and searching records.
 You need to RUN ALL of the code.
