@@ -20,7 +20,11 @@ student-dataset.csv and Academic-Registry-Portal.ipynb should in the same file.
   
 ## Setup (VS Code)
 - Download and Install Latest Python Ver
-- Follow above
+- Run file in cmd line or run through ide
+- Open Terminal input "pip install PySimpleGUI==4.60.5" to install PySimpleGUI
+- Open Terminal input "pip install pandas==1.4.4" to install Pandas
+- Run all
+
 ## Usage
 To run the notebook, simply execute the cells in order. The notebook provides a graphical interface for managing academic records, including functionalities for updating, sorting, and searching records.
 You need to RUN ALL of the code.
